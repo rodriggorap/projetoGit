@@ -3,4 +3,4 @@ pois visam validar se a aplicação está funcionando corretamente e se atende a
 
 Nesse contexto existem diversas  
 de diferentes formas para validar os aspectos principais do software.  
-você conhecerá conceitos undamentais do teste de software e como aplicá-los.
+você conhecerá conceitos undamentais do teste de software e como 
